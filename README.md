@@ -1,1 +1,1 @@
-### Solving Quadratic Equation using Gradient Descent
+### Solving the Quadratic Equation using Gradient Descent
